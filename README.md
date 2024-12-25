@@ -1,9 +1,9 @@
 # Orchestrated Saga Newsletter service
 
 Orchestrated Saga with:
-- Rebus
-- RabbitMQ
+- MassTransit + RabbitMQ
 - SQL Server
+
 
 ## Running this project
 
